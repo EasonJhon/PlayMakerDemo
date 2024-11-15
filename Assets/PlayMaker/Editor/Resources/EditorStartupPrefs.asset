@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   welcomeScreenVersion: '1.9.4 '
   playmakerVersion: 
-  showWelcomeScreen: 1
+  showWelcomeScreen: 0
   showUpgradeGuide: 1
-  lastAutoUpdateSignature: 2019.4.40f1__F:/Workspace/GitHub/PlayMakerDemo/Assets__0.0.0.0
+  lastAutoUpdateSignature: 2019.4.40f1__G:/Git/PlayMakerDemo/Assets__0.0.0.0
   useLegacyNetworking: 0
